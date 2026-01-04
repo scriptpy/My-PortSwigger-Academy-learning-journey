@@ -19,7 +19,7 @@ title: Learning Roadmap
 - [x] Install Burp Suite Community Edition
 - [x] Complete: "What is web security?" reading
 - [x] Complete: "How to use Burp Suite" tutorial
-- [x] Lab: SQL injection - Basic ✅ [Completed: SQL injection vulnerability in WHERE clause]({{ site.baseurl }}/2025/01/04/sql-injection-where/)
+- [x] Lab: SQL injection - Basic ✅ [Completed: SQL injection vulnerability in WHERE clause]({{ site.baseurl }}/2025/01/04/sql-injection-where.html)
 
 ### Core Vulnerabilities (Next Steps)
 - [ ] Lab: SQL injection - Continue with remaining labs (17 more)
