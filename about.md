@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 # About This Journey
 
-I'm learning cybersecurity through PortSwigger Academy's free labs. This blog documents my progress, mistakes, and discoveries along the way.
+Welcome! I'm learning cybersecurity through [PortSwigger Academy's](https://portswigger.net/web-security) free labs. This blog documents my progress, mistakes, and discoveries along the way.
 
 ## Why I'm Learning in Public
 
