@@ -4,6 +4,7 @@ title: Learning Roadmap
 permalink: /roadmap/
 ---
 
+
 # PortSwigger Academy Learning Roadmap
 
 **Current Status:** Phase 1 - Foundations  
