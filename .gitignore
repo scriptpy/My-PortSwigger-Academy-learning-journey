@@ -21,3 +21,6 @@ Thumbs.db
 # Burp Suite installation files
 BurpSuiteCommunity/
 
+# Private project context file
+.project-context.md
+
