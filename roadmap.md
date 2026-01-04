@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Learning Roadmap
-permalink: /roadmap/
 ---
 
 
