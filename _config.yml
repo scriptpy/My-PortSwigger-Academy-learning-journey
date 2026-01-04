@@ -1,0 +1,27 @@
+title: PortSwigger Academy Learning Journey
+description: Documenting my cybersecurity learning journey through PortSwigger Academy labs
+theme: minima
+author: Your Name
+email: your.email@example.com
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - about.md
+  - roadmap.md
+  - progress.md
+
+# Exclude from processing
+exclude:
+  - README.md
+  - lab-template.md
+  - publish.sh
+  - publish.ps1
+  - .gitignore
+  - QUICK_START.md
+  - GETTING_STARTED.md
+
