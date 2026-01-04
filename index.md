@@ -21,7 +21,7 @@ This is my public learning journal where I:
 ## Recent Labs
 
 {% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
 
 [View All Labs →]({{ site.baseurl }}/progress.html)
