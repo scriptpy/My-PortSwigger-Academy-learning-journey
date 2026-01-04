@@ -18,3 +18,6 @@ Thumbs.db
 # Screenshots (uncomment if you want to ignore them)
 # screenshots/
 
+# Burp Suite installation files
+BurpSuiteCommunity/
+

@@ -9,7 +9,7 @@ categories: [labs]
 
 **Topic:** SQL Injection  
 **Difficulty:** Easy  
-**Time Taken:** [20 minutes]  
+**Time Taken:** 20 minutes  
 **Date Completed:** 2025-01-04
 
 ## What I Did
@@ -18,6 +18,7 @@ I used Burp Suite's Repeater to modify the category parameter in the GET request
 ## Screenshots
 ![Step 1]({{ site.baseurl }}/screenshots/sql-injection-where-step1.png)
 ![Step 2]({{ site.baseurl }}/screenshots/sql-injection-where-step2.png)
+![Step 3]({{ site.baseurl }}/screenshots/sql-injection-where-step3.png)
 
 ## What Worked
 - Using Burp Suite's built-in browser
@@ -25,7 +26,7 @@ I used Burp Suite's Repeater to modify the category parameter in the GET request
 - The payload `' OR 1=1--` successfully bypassed the filter
 
 ## What Didn't Work
-- [-]
+- Nothing - the payload worked on the first try!
 
 ## Key Takeaway
 SQL injection in WHERE clauses can be exploited by breaking out of the query with a single quote and using OR 1=1 to make the condition always true, then commenting out the rest with --.
