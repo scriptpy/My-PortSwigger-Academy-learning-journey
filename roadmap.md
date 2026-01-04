@@ -9,14 +9,15 @@ title: Learning Roadmap
 **Goal:** Understand basic web security concepts and tools
 
 ### Week 1: Setup & Basics
-- [ ] Install Burp Suite Community Edition
-- [ ] Complete: "What is web security?" reading
-- [ ] Complete: "How to use Burp Suite" tutorial
-- [ ] Lab: SQL injection - Basic (1 lab)
+- [x] Install Burp Suite Community Edition
+- [x] Complete: "What is web security?" reading
+- [x] Complete: "How to use Burp Suite" tutorial
+- [x] Lab: SQL injection - Basic (1 lab) ✅ **Completed: SQL injection vulnerability in WHERE clause**
 - [ ] Lab: Authentication - Basic (1 lab)
 
 ### Week 2: Core Vulnerabilities
-- [ ] Lab: SQL injection - Retrieving hidden data (3 labs)
+- [x] Lab: SQL injection - Retrieving hidden data (1/3 labs completed) ✅
+- [ ] Lab: SQL injection - Continue with remaining labs
 - [ ] Lab: Authentication - Vulnerabilities (3 labs)
 - [ ] Lab: Path traversal - Basic (2 labs)
 - [ ] Lab: Cross-site scripting (XSS) - Reflected (3 labs)

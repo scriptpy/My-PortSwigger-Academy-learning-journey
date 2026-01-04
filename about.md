@@ -17,14 +17,14 @@ I'm learning cybersecurity through PortSwigger Academy's free labs. This blog do
 ## My Background
 
 - **Experience Level:** 2/10 (Beginner)
-- **Starting Date:** [Add your start date]
+- **Starting Date:** January 2025
 - **Goal:** Complete PortSwigger Academy labs and build foundational web security knowledge
+- **Current Progress:** 1 lab completed
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Medium](https://medium.com/@yourusername)
-- [GitHub](https://github.com/yourusername)
+- **GitHub:** [@scriptpy](https://github.com/scriptpy)
+- **PortSwigger Academy Profile:** [View my progress](https://portswigger.net/web-security/hall-of-fame)
 
 ---
 
