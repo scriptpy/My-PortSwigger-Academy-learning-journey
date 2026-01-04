@@ -93,5 +93,5 @@ This roadmap is flexible and adapts to my learning pace. I'm focusing on underst
 - **[PortSwigger Academy](https://portswigger.net/web-security)** - All labs and learning materials
 - **[Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)** - Essential testing tool
 - **[Hall of Fame](https://portswigger.net/web-security/hall-of-fame)** - Track progress and compare with others
-- **[Progress Tracker]({{ site.baseurl }}/progress/)** - Detailed checklist of all labs
+- **[Progress Tracker]({{ site.baseurl }}/progress.html)** - Detailed checklist of all labs
 

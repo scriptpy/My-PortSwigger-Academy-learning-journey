@@ -24,18 +24,18 @@ This is my public learning journal where I:
 - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
 
-[View All Labs →](/labs)
+[View All Labs →]({{ site.baseurl }}/progress.html)
 
 ## Progress Tracking
 
-- [View My Roadmap](/roadmap)
-- [Track My Progress](/progress)
+- [View My Roadmap]({{ site.baseurl }}/roadmap.html)
+- [Track My Progress]({{ site.baseurl }}/progress.html)
 
 ---
 
 ## License & AI Assistance
 
-**License:** This project and all content is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
+**License:** This project and all content is licensed under the [GNU General Public License v3.0 (GPL-3.0)]({{ site.baseurl }}/LICENSE).
 
 **AI Assistance:** All lab writeups are created with the assistance of an AI coding assistant (Cursor AI/Auto). The AI helps with structuring, formatting, and documentation, but all lab solutions, screenshots, and learning insights are based on my own work completing the PortSwigger Academy labs. Each post includes a disclaimer stating this explicitly.
 

@@ -125,5 +125,5 @@ title: Progress Tracker
 
 ---
 
-**Last Updated:** [Update this date as you complete labs]
+**Last Updated:** January 4, 2025
 

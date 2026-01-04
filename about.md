@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 # About This Journey
@@ -31,7 +30,7 @@ Welcome! I'm learning cybersecurity through [PortSwigger Academy's](https://port
 
 ## License & AI Assistance
 
-**License:** This project and all content is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
+**License:** This project and all content is licensed under the [GNU General Public License v3.0 (GPL-3.0)]({{ site.baseurl }}/LICENSE).
 
 **AI Assistance:** All lab writeups are created with the assistance of an AI coding assistant (Cursor AI/Auto). The AI helps with structuring, formatting, and documentation, but all lab solutions, screenshots, and learning insights are based on my own work completing the PortSwigger Academy labs. Each post includes a disclaimer stating this explicitly.
 
