@@ -1,74 +1,97 @@
 ---
 layout: page
 title: Learning Roadmap
+permalink: /roadmap/
 ---
 
 # PortSwigger Academy Learning Roadmap
 
-## Phase 1: Foundations (Weeks 1-2)
-**Goal:** Understand basic web security concepts and tools
+**Current Status:** Phase 1 - Foundations  
+**Progress:** 1 lab completed | Started: January 2025
 
-### Week 1: Setup & Basics
+---
+
+## Phase 1: Foundations
+**Goal:** Understand basic web security concepts and tools  
+**Status:** In Progress
+
+### Setup & Basics ✅
 - [x] Install Burp Suite Community Edition
 - [x] Complete: "What is web security?" reading
 - [x] Complete: "How to use Burp Suite" tutorial
-- [x] Lab: SQL injection - Basic (1 lab) ✅ **Completed: SQL injection vulnerability in WHERE clause**
-- [ ] Lab: Authentication - Basic (1 lab)
+- [x] Lab: SQL injection - Basic ✅ [Completed: SQL injection vulnerability in WHERE clause]({{ site.baseurl }}/2025/01/04/sql-injection-where.html)
 
-### Week 2: Core Vulnerabilities
-- [x] Lab: SQL injection - Retrieving hidden data (1/3 labs completed) ✅
-- [ ] Lab: SQL injection - Continue with remaining labs
-- [ ] Lab: Authentication - Vulnerabilities (3 labs)
-- [ ] Lab: Path traversal - Basic (2 labs)
-- [ ] Lab: Cross-site scripting (XSS) - Reflected (3 labs)
+### Core Vulnerabilities (Next Steps)
+- [ ] Lab: SQL injection - Continue with remaining labs (17 more)
+- [ ] Lab: Authentication - Basic vulnerabilities
+- [ ] Lab: Path traversal - Basic
+- [ ] Lab: Cross-site scripting (XSS) - Reflected
 
-## Phase 2: Intermediate (Weeks 3-4)
-**Goal:** Master common attack vectors
+## Phase 2: Intermediate
+**Goal:** Master common attack vectors  
+**Status:** Not Started
 
-### Week 3: Server-Side Attacks
-- [ ] Lab: SQL injection - Advanced (5 labs)
-- [ ] Lab: Authentication - Advanced (5 labs)
-- [ ] Lab: Path traversal - Advanced (4 labs)
-- [ ] Lab: Server-side request forgery (SSRF) - Basic (3 labs)
+### Server-Side Attacks
+- [ ] Lab: SQL injection - Advanced techniques
+- [ ] Lab: Authentication - Advanced vulnerabilities
+- [ ] Lab: Path traversal - Advanced
+- [ ] Lab: Server-side request forgery (SSRF) - Basic
 
-### Week 4: Client-Side Attacks
-- [ ] Lab: XSS - Stored (5 labs)
-- [ ] Lab: XSS - DOM-based (5 labs)
-- [ ] Lab: Cross-site request forgery (CSRF) - Basic (4 labs)
+### Client-Side Attacks
+- [ ] Lab: XSS - Stored
+- [ ] Lab: XSS - DOM-based
+- [ ] Lab: Cross-site request forgery (CSRF) - Basic
 
-## Phase 3: Advanced (Weeks 5-6)
-**Goal:** Understand complex vulnerabilities
+## Phase 3: Advanced
+**Goal:** Understand complex vulnerabilities  
+**Status:** Not Started
 
-### Week 5: Advanced Topics
-- [ ] Lab: Insecure deserialization (5 labs)
-- [ ] Lab: SSRF - Advanced (4 labs)
-- [ ] Lab: CSRF - Advanced (4 labs)
-- [ ] Lab: Access control - Basic (3 labs)
+### Advanced Topics
+- [ ] Lab: Insecure deserialization
+- [ ] Lab: SSRF - Advanced
+- [ ] Lab: CSRF - Advanced
+- [ ] Lab: Access control vulnerabilities
+- [ ] Lab: Business logic vulnerabilities
+- [ ] Lab: OAuth authentication
+- [ ] Lab: File upload vulnerabilities
+- [ ] Lab: Server-side template injection
 
-### Week 6: Specialized Topics
-- [ ] Lab: Business logic vulnerabilities (5 labs)
-- [ ] Lab: OAuth authentication (3 labs)
-- [ ] Lab: File upload vulnerabilities (3 labs)
-- [ ] Lab: Server-side template injection (3 labs)
+## Phase 4: Mastery
+**Goal:** Tackle expert-level challenges  
+**Status:** Not Started
 
-## Phase 4: Mastery (Weeks 7-8)
-**Goal:** Tackle expert-level challenges
-
-### Week 7: Expert Labs
+### Expert Labs
 - [ ] Lab: Advanced SQL injection techniques
 - [ ] Lab: Advanced XSS contexts
 - [ ] Lab: Race conditions
 - [ ] Lab: Web cache poisoning
+- [ ] Lab: HTTP request smuggling
+- [ ] Lab: GraphQL API vulnerabilities
+- [ ] Lab: JWT vulnerabilities
 
-### Week 8: Review & Practice
+### Review & Practice
 - [ ] Revisit challenging labs
 - [ ] Complete remaining labs
 - [ ] Document all techniques learned
 
 ---
 
+## Notes
+
+This roadmap is flexible and adapts to my learning pace. I'm focusing on understanding each concept thoroughly rather than rushing through labs.
+
+**Learning Approach:**
+- Complete labs at my own pace
+- Document what I learn
+- Review challenging concepts
+- Build practical skills
+
+---
+
 ## Resources
-- **PortSwigger Academy:** https://portswigger.net/web-security
-- **Burp Suite:** https://portswigger.net/burp/communitydownload
-- **Hall of Fame:** https://portswigger.net/web-security/hall-of-fame
+
+- **[PortSwigger Academy](https://portswigger.net/web-security)** - All labs and learning materials
+- **[Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)** - Essential testing tool
+- **[Hall of Fame](https://portswigger.net/web-security/hall-of-fame)** - Track progress and compare with others
+- **[Progress Tracker]({{ site.baseurl }}/progress/)** - Detailed checklist of all labs
 
