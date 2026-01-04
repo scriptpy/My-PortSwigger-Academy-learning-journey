@@ -4,6 +4,10 @@ theme: minima
 author: Your Name
 email: your.email@example.com
 
+# GitHub Pages baseurl (required for subdirectory sites)
+baseurl: "/My-PortSwigger-Academy-learning-journey"
+url: "https://scriptpy.github.io"
+
 # GitHub Pages settings
 plugins:
   - jekyll-feed
