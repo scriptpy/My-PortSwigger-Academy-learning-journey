@@ -9,7 +9,7 @@ categories: [labs]
 
 **Topic:** SQL Injection  
 **Difficulty:** Easy  
-**Time Taken:** [Fill in your time]  
+**Time Taken:** [20 min]  
 **Date Completed:** 2025-01-05
 
 ## What I Did
@@ -49,4 +49,4 @@ The `--` comments out everything after it, effectively removing the password che
 
 **AI Assistance:** This writeup was created with the assistance of an AI coding assistant (Cursor AI/Auto). The AI helped with structuring, formatting, and documentation, but all lab solutions, screenshots, and learning insights are my own work based on completing the PortSwigger Academy lab.
 
-**License:** This content is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file in this repository for full details.
+**License:** This content is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE]({{ site.baseurl }}/LICENSE) file in this repository for full details.

@@ -54,4 +54,4 @@ This returned an additional row with three NULL values, confirming the query ret
 
 **AI Assistance:** This writeup was created with the assistance of an AI coding assistant (Cursor AI/Auto). The AI helped with structuring, formatting, and documentation, but all lab solutions, screenshots, and learning insights are my own work based on completing the PortSwigger Academy lab.
 
-**License:** This content is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file in this repository for full details.
+**License:** This content is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE]({{ site.baseurl }}/LICENSE) file in this repository for full details.
