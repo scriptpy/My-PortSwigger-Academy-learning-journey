@@ -3,6 +3,7 @@ layout: post
 title: "SQL injection vulnerability in WHERE clause allowing retrieval of hidden data"
 date: 2026-01-04
 categories: [labs]
+permalink: /2026/01/04/sql-injection-where/
 ---
 
 # SQL injection vulnerability in WHERE clause allowing retrieval of hidden data

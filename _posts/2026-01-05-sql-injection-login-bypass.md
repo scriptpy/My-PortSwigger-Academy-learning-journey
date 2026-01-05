@@ -3,6 +3,7 @@ layout: post
 title: "SQL injection vulnerability allowing login bypass"
 date: 2026-01-05
 categories: [labs]
+permalink: /2026/01/05/sql-injection-login-bypass/
 ---
 
 # SQL injection vulnerability allowing login bypass
