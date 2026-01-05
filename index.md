@@ -16,7 +16,7 @@ This is my public learning journal where I:
 - Learn in public
 
 **Current Level:** Beginner (2/10)  
-**Total Labs Completed:** 2
+**Total Labs Completed:** 3
 
 ## Recent Labs
 
