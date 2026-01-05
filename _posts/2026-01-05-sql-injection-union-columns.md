@@ -3,7 +3,7 @@ layout: post
 title: "SQL injection UNION attack, determining the number of columns returned by the query"
 date: 2026-01-05
 categories: [labs]
-permalink: /2026/01/05/sql-injection-union-columns/
+permalink: /2026/01/05/sql-injection-union-columns.html
 ---
 
 # SQL injection UNION attack, determining the number of columns returned by the query
