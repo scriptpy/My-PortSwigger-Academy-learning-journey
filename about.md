@@ -24,6 +24,8 @@ Welcome! I'm learning cybersecurity through [PortSwigger Academy's](https://port
 ## Connect
 
 - **GitHub:** [@scriptpy](https://github.com/scriptpy)
+- **LinkedIn:** [@scriptpy](https://www.linkedin.com/in/scriptpy/)
+- **Medium:** [@g.a.istrati](https://medium.com/@g.a.istrati)
 - **PortSwigger Academy Profile:** [View my progress](https://portswigger.net/web-security/hall-of-fame)
 
 ---
