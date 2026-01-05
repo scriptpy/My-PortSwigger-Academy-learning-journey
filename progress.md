@@ -8,9 +8,9 @@ title: Progress Tracker
 ## Overall Progress: 3/200+ labs
 
 ### SQL Injection (3/18)
-- [x] SQL injection vulnerability in WHERE clause allowing retrieval of hidden data ✅ [View Post]({{ site.baseurl }}/2026/01/04/sql-injection-where.html)
-- [x] SQL injection vulnerability allowing login bypass ✅ [View Post]({{ site.baseurl }}/2026/01/05/sql-injection-login-bypass.html)
-- [x] SQL injection UNION attack, determining the number of columns returned by the query ✅ [View Post]({{ site.baseurl }}/2026/01/05/sql-injection-union-columns.html)
+- [x] SQL injection vulnerability in WHERE clause allowing retrieval of hidden data ✅ [View Post]({{ site.baseurl }}/2026/01/04/sql-injection-where/)
+- [x] SQL injection vulnerability allowing login bypass ✅ [View Post]({{ site.baseurl }}/2026/01/05/sql-injection-login-bypass/)
+- [x] SQL injection UNION attack, determining the number of columns returned by the query ✅ [View Post]({{ site.baseurl }}/2026/01/05/sql-injection-union-columns/)
 - [ ] SQL injection UNION attack, finding a column containing text
 - [ ] SQL injection UNION attack, retrieving data from other tables
 - [ ] SQL injection UNION attack, retrieving multiple values in a single column

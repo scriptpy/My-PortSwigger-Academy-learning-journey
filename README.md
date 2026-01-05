@@ -21,7 +21,7 @@ This is my public learning journal where I document:
 
 - **Total Labs Completed:** 3
 - **Topics Covered:** SQL Injection
-- **Latest Lab:** [SQL injection UNION attack, determining number of columns](https://scriptpy.github.io/My-PortSwigger-Academy-learning-journey/2026/01/05/sql-injection-union-columns.html)
+- **Latest Lab:** [SQL injection UNION attack, determining number of columns](https://scriptpy.github.io/My-PortSwigger-Academy-learning-journey/2026/01/05/sql-injection-union-columns/)
 
 View full progress: [Progress Tracker](https://scriptpy.github.io/My-PortSwigger-Academy-learning-journey/progress) | [Learning Roadmap](https://scriptpy.github.io/My-PortSwigger-Academy-learning-journey/roadmap)
 
