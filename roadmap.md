@@ -7,7 +7,7 @@ title: Learning Roadmap
 # PortSwigger Academy Learning Roadmap
 
 **Current Status:** Phase 1 - Foundations  
-**Progress:** 3 labs completed | Started: January 2025
+**Progress:** 3 labs completed | Started: January 2026
 
 ---
 
@@ -19,9 +19,9 @@ title: Learning Roadmap
 - [x] Install Burp Suite Community Edition
 - [x] Complete: "What is web security?" reading
 - [x] Complete: "How to use Burp Suite" tutorial
-- [x] Lab: SQL injection - Basic ✅ [Completed: SQL injection vulnerability in WHERE clause]({{ site.baseurl }}/2025/01/04/sql-injection-where.html)
-- [x] Lab: SQL injection - Login bypass ✅ [Completed: SQL injection vulnerability allowing login bypass]({{ site.baseurl }}/2025/01/05/sql-injection-login-bypass.html)
-- [x] Lab: SQL injection - UNION attack (determining columns) ✅ [Completed: SQL injection UNION attack, determining number of columns]({{ site.baseurl }}/2025/01/05/sql-injection-union-columns.html)
+- [x] Lab: SQL injection - Basic ✅ [Completed: SQL injection vulnerability in WHERE clause]({{ site.baseurl }}/2026/01/04/sql-injection-where.html)
+- [x] Lab: SQL injection - Login bypass ✅ [Completed: SQL injection vulnerability allowing login bypass]({{ site.baseurl }}/2026/01/05/sql-injection-login-bypass.html)
+- [x] Lab: SQL injection - UNION attack (determining columns) ✅ [Completed: SQL injection UNION attack, determining number of columns]({{ site.baseurl }}/2026/01/05/sql-injection-union-columns.html)
 
 ### Core Vulnerabilities (Next Steps)
 - [ ] Lab: SQL injection - UNION attacks (next: finding column containing text)

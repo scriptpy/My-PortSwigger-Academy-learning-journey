@@ -17,7 +17,7 @@ Welcome! I'm learning cybersecurity through [PortSwigger Academy's](https://port
 ## My Background
 
 - **Experience Level:** 2/10 (Beginner)
-- **Starting Date:** January 2025
+- **Starting Date:** January 2026
 - **Goal:** Complete PortSwigger Academy labs and build foundational web security knowledge
 - **Current Progress:** 3 labs completed
 

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "SQL injection UNION attack, determining the number of columns returned by the query"
-date: 2025-01-05
+date: 2026-01-05
 categories: [labs]
 ---
 
@@ -10,7 +10,7 @@ categories: [labs]
 **Topic:** SQL Injection  
 **Difficulty:** Practitioner  
 **Time Taken:** [ 15 minutes]  
-**Date Completed:** 2025-01-05
+**Date Completed:** 2026-01-05
 
 ## What I Did
 I used the ORDER BY technique to determine the number of columns returned by the SQL query. I tried `ORDER BY 1--`, `ORDER BY 2--`, `ORDER BY 3--` until I found that 3 columns were returned. Then I used `UNION SELECT NULL,NULL,NULL--` to confirm and return an additional row with NULL values.

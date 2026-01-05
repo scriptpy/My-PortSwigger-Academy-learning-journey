@@ -19,9 +19,9 @@ This is my public learning journal where I document:
 
 ## 🎯 Progress
 
-- **Total Labs Completed:** 1
+- **Total Labs Completed:** 3
 - **Topics Covered:** SQL Injection
-- **Latest Lab:** [SQL injection vulnerability in WHERE clause](https://scriptpy.github.io/My-PortSwigger-Academy-learning-journey/2025/01/04/sql-injection-where.html)
+- **Latest Lab:** [SQL injection UNION attack, determining number of columns](https://scriptpy.github.io/My-PortSwigger-Academy-learning-journey/2026/01/05/sql-injection-union-columns.html)
 
 View full progress: [Progress Tracker](https://scriptpy.github.io/My-PortSwigger-Academy-learning-journey/progress) | [Learning Roadmap](https://scriptpy.github.io/My-PortSwigger-Academy-learning-journey/roadmap)
 
@@ -59,5 +59,5 @@ This is a learning journey, not a tutorial. I'm documenting my process, includin
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** January 2026
 

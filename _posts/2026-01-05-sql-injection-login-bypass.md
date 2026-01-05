@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "SQL injection vulnerability allowing login bypass"
-date: 2025-01-05
+date: 2026-01-05
 categories: [labs]
 ---
 
@@ -10,7 +10,7 @@ categories: [labs]
 **Topic:** SQL Injection  
 **Difficulty:** Easy  
 **Time Taken:** [20 min]  
-**Date Completed:** 2025-01-05
+**Date Completed:** 2026-01-05
 
 ## What I Did
 I used SQL injection in the login form to bypass authentication. I entered `administrator'--` in the username field, which closed the SQL string and commented out the password check, allowing me to log in as administrator without knowing the password.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SQL injection vulnerability in WHERE clause allowing retrieval of hidden data"
-date: 2025-01-04
+date: 2026-01-04
 categories: [labs]
 ---
 
@@ -10,7 +10,7 @@ categories: [labs]
 **Topic:** SQL Injection  
 **Difficulty:** Easy  
 **Time Taken:** 20 minutes  
-**Date Completed:** 2025-01-04
+**Date Completed:** 2026-01-04
 
 ## What I Did
 I used Burp Suite's Repeater to modify the category parameter in the GET request. I changed the category from "Gifts" to "Gifts' OR 1=1--" which caused the SQL query to return all products, including unreleased ones.
