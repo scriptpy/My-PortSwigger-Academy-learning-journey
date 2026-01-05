@@ -7,6 +7,12 @@ LAB_NAME="$1"
 LAB_SLUG="$2"
 DATE=$(date +%Y-%m-%d)
 
+# Generate permalink from date and slug
+YEAR=$(date +%Y)
+MONTH=$(date +%m)
+DAY=$(date +%d)
+PERMALINK="/$YEAR/$MONTH/$DAY/$LAB_SLUG.html"
+
 if [ -z "$LAB_NAME" ] || [ -z "$LAB_SLUG" ]; then
     echo "Usage: ./publish.sh \"Lab Name\" \"lab-slug\""
     echo "Example: ./publish.sh \"SQL injection vulnerability in WHERE clause\" \"sql-injection-where-clause\""
@@ -24,6 +30,7 @@ layout: post
 title: "$LAB_NAME"
 date: $DATE
 categories: [labs]
+permalink: $PERMALINK
 ---
 
 # $LAB_NAME

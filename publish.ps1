@@ -12,6 +12,12 @@ param(
 $Date = Get-Date -Format "yyyy-MM-dd"
 $PostFile = "_posts\$Date-$LabSlug.md"
 
+# Generate permalink from date and slug
+$Year = $Date.Substring(0, 4)
+$Month = $Date.Substring(5, 2)
+$Day = $Date.Substring(8, 2)
+$Permalink = "/$Year/$Month/$Day/$LabSlug.html"
+
 if (Test-Path $PostFile) {
     Write-Host "Post already exists: $PostFile" -ForegroundColor Yellow
     exit
@@ -25,6 +31,7 @@ layout: post
 title: "$LabName"
 date: $Date
 categories: [labs]
+permalink: $Permalink
 ---
 
 # $LabName
